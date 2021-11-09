@@ -2,7 +2,6 @@
 
 - 🎉 Tenho 24 anos
 - 🌎 Sou de Brasília
-- 🔭 Estou à procura de emprego!
 - 🌱 Aprendendo e aperfeiçoando meu conhecimento em JS
 
 <div align="center">
