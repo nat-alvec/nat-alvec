@@ -1,6 +1,6 @@
 ### Oi! Meu nome é Natália 👋
 
-- 🎉 Tenho 25 anos
+- 🎉 Tenho 26 anos
 - 🌎 Sou de Brasília
 - 🌱 Aprendendo e aperfeiçoando meu conhecimento em JS
 
